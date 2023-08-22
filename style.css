@@ -1,5 +1,19 @@
+body {
+    background-color: #FFF8E0;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 36 px;
+}
+
 p {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    
 }
+
+img {
+    text-align: center;
+}
+
