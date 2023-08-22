@@ -1,0 +1,25 @@
+body {
+    background-color: #FFF8E0;
+}
+
+h1,
+h3,
+p {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+p.image {
+    text-align: center;
+}
+
+ul,
+ol {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
